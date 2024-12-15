@@ -1,4 +1,5 @@
 예시 문장
+
 This document describes software safety requirements derived from the “Technical safety concept” of DAU that ISO26262 is required. ASIL A is allocated to UP and BACKWARD/FORWARD function. It is prepared in order to demonstrate that the technical safety concept for software is implemented and allocated to the appropriate unit.
 
 이 문서에서는 ISO26262가 요구되는 DAU의 "기술적 안전 개념"에서 파생된 소프트웨어 안전 요구사항을 설명합니다. ASIL A는 UP 및 BACKWARD/FORWARD 기능에 할당됩니다. 소프트웨어에 대한 기술적 안전 개념이 구현되고 적절한 단위에 할당되었음을 입증하기 위해 준비되었습니다.
@@ -7,8 +8,10 @@ This document describes software safety requirements derived from the “Technic
 ---
 ※ 마크다운에서 약속된 기호를 출력하기 위해서는 `\` 기호와 감께 작성하는 이스케이프(Escape) 처리가 필요합니다.
 
+
 ---
 ▶ 헤더 (Header)
+
 # 제목1 (Heading1)
 ## 제목2 (Heading2)
 ### 제목3 (Heading3)
@@ -19,6 +22,7 @@ This document describes software safety requirements derived from the “Technic
 
 ---
 ▶ 폰트 (Font)
+
 이텔릭체는 *별 기호(Asterrisks)* 또는 _언더바 기호(Underscore)_ 를 사용하세요
 볼드체는 **별 기호(asterisks)** 또는 __언더바 기호(underscore)__ 를 두 번씩 사용하세요
 __*이텔릭체*와 볼드체__ 를 혼용할 수도 있습니다
@@ -30,6 +34,7 @@ __*이텔릭체*와 볼드체__ 를 혼용할 수도 있습니다
 
 ---
 ▶ 목록 (List)
+
 `-` 로 시작하는 순서가 없는 목록으로 구분합니다.
 1. 순서가 있는 항목
 2. 순서가 있는 항목
@@ -48,6 +53,7 @@ __*이텔릭체*와 볼드체__ 를 혼용할 수도 있습니다
 
 ---
 ▶ 인용문 (Quote)
+
 > 인용문 - 남의 말이나 글에서 직접 또는 간접으로 따온 문장
 > _(네이버 국어 사전)_
 
@@ -65,6 +71,7 @@ BREAK!
 
 ---
 ▶ 코드블록 (Code) / 인라인 (Inline)
+
 \` 를 3번 이상 입력하고 언어(코드) 이름을 명시하여 코드 블록을 표현합니다
 
 ```javascript
@@ -94,6 +101,7 @@ But let's throw in a <b>tag</b>.
 
 ---
 ▶ 수평선 (Horizontal)
+
 \---
 \***
 \___
@@ -101,6 +109,7 @@ But let's throw in a <b>tag</b>.
 
 ---
 ▶ 문단
+
 (줄 바꿈을 두 번 하면 된다)
 
 첫째 문단입니다, 문장이 두 개죠
@@ -110,6 +119,7 @@ But let's throw in a <b>tag</b>.
 
 ---
 ▶ 링크 (Links)
+
 [GOOGLE](https://google.com)
 [NAVER](https://naver.com "링크설명(title)을 작성하세요")
 [상대적참조](devs/NOTICE)
@@ -129,6 +139,7 @@ But let's throw in a <b>tag</b>.
 
 ---
 ▶ 이미지 (Images)
+
 `![대체텍스트](이미지주소)`
 `![대체텍스트](이미지주소 "설명")`
 `![대체텍스트][참조]`
@@ -156,6 +167,7 @@ But let's throw in a <b>tag</b>.
 
 ---
 ▶ 체크박스 (Checkbox)
+
 - [ ] 체크박스 1
 - [x] 체크박스 2
 - [ ] 체크박스 3
@@ -164,6 +176,7 @@ But let's throw in a <b>tag</b>.
 
 ---
 ▶ 주석 (Comment)
+
 -- 시작 --
 <!-- 안녕하세요 -->
 [//]: # (안녕하세요)
