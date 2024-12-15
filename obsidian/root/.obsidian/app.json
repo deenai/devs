@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "focusNewTab": true,
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "devs",
+  "alwaysUpdateLinks": true
+}

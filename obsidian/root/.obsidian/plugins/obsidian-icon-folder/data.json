@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#2fb5f9",
+    "recentlyUsedIcons": [
+      "TiFolder",
+      "RiGlobalLine",
+      "RiLeafFill",
+      "LiImages",
+      "FabPython"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "asset": "TiAsset",
+  "devs": "FabConnectdevelop",
+  "asset/drawing": "SiDiagramsdotnet",
+  "asset/image": "LiImages",
+  "devs/python": "FabPython",
+  "devs/edu": "RiLeafFill",
+  "devs/std": "RiGlobalLine",
+  "workspace": "TiFolder"
+}
