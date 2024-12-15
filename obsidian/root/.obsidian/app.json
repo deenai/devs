@@ -14,6 +14,6 @@
   "showRibbon": true,
   "propertiesInDocument": "visible",
   "newFileLocation": "folder",
-  "newFileFolderPath": "devs",
+  "newFileFolderPath": "workspace",
   "alwaysUpdateLinks": true
 }

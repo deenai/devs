@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#2fb5f9",
     "recentlyUsedIcons": [
+      "TiBulb",
+      "OcCrossReference16",
+      "BoBxCar",
       "TiFolder",
-      "RiGlobalLine",
-      "RiLeafFill",
-      "LiImages",
-      "FabPython"
+      "RiGlobalLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,8 +38,11 @@
   "devs": "FabConnectdevelop",
   "asset/drawing": "SiDiagramsdotnet",
   "asset/image": "LiImages",
-  "devs/python": "FabPython",
-  "devs/edu": "RiLeafFill",
-  "devs/std": "RiGlobalLine",
-  "workspace": "TiFolder"
+  "workspace": "TiFolder",
+  "edu": "RiLeafFill",
+  "python": "FabPython",
+  "standard": "RiGlobalLine",
+  "automotive": "BoBxCar",
+  "refs": "OcCrossReference16",
+  "tips": "TiBulb"
 }
