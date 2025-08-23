@@ -18,6 +18,7 @@ Profile: 지도영(doyoung.chi / mail: deenai@naver.com / github: https://github
 ## ▣ 경력 (Professional Experience)
 ### 💠 현대자동차
 ##### 2025.01 ~ 현재 / Vehicle Integration개발팀 (책임연구원: Scrum Master)
+- SDV 차량 전력망(Powernet) 관련 스쿼드 리더(SM)<br>
 - 애자일 프로세스 기반 팀 백로그 관리 및 스프린트 운영 주도<br>
 - 스쿼드 리소스 최적화, 목표 명확화, 협업 체계 구축<br>
 - 스프린트 리뷰·포스트모템을 통한 품질/일정 관리 및 개선<br>
