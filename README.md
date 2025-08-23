@@ -77,11 +77,6 @@ Profile: 지도영(doyoung.chi / mail: deenai@naver.com / github: https://github
 | MCU | `NXP(Freescale) MPC5650`, `ST Chorus SPC58x` |
 | Projects | HMC → `KU`, `SU2i`, `IK`, `CK`, `SG2`, `CV`, `HR EV`, `CN7 PE` |
 
-- Tools: <br><br>
-- MCU: <br><br>
-- Keywords: <br><br>
-- Projects: 
-
 <br><br><br>
 
 ### 💠 한국알프스
